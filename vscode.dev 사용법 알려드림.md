@@ -13,7 +13,8 @@
   <li>그럼 이제 파일이 열릴건데 혹시 위에 ~에서 파일을 ~하도록 허용하시겠습니까? 물어보면 허용 또는 변경사항 저장 누르기</li>
   <li>열리면 <b><code>Do you want to install the recommended extensions for Python?</code></b> 뜨면 Install을 클릭한다. (그리고 ~~하고 Install Anyway가 뜨면 Install Anyway를 클릭한다.) 그러면 파이썬 관련 확장이 설치가 되고 있을건데 취소하지 않기</li>
   <li>타자를 칠때 오른쪽 밑에 <code>Request ~ Failed</code>가 떠도 무시한다.</li>
-  <img src="https://i.imgur.com/nHLswg7.png" style="display: none;">
+  <img src="https://i.imgur.com/nHLswg7.png">
+  <li>위 사진처럼 자동완성 기능이 된다면 성공. Tab을 눌러 자동완성할 수 있다.</li>
 </ol>
 
 ### \<span>============ 추가설정 하기 ============\</span>
