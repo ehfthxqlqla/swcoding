@@ -15,6 +15,7 @@
     <li>타자를 칠때 오른쪽 밑에 <code>Request ~ Failed</code>가 떠도 무시한다.</li>
     <img src="https://i.imgur.com/nHLswg7.png">
     <li>위 사진처럼 자동완성 기능이 된다면 성공. Tab을 눌러 자동완성할 수 있다.</li>
+    <li>파일 실행은 Python IDLE 등 원하는거로 하면 된다.</li>
 </ol>
 
 ### \<span>============ 추가설정 하기 ============\</span>
